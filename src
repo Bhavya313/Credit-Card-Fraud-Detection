@@ -1,0 +1,8 @@
+src/
+│
+├── data_preprocessing.py
+├── feature_engineering.py
+├── train_model.py
+├── evaluate_model.py
+├── utils.py
+└── config.py
